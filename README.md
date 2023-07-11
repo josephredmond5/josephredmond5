@@ -1,3 +1,4 @@
+![banner](https://github.com/josephredmond5/josephredmond5/assets/109824007/20c699ef-d1dd-410f-be37-130aa474252b)
 
 As a junior software engineer, I am a bootcamp graduate equipped with an extensive knowledge of key programming languages such as JavaScript, HTML, CSS, and React. I am also adept at bridging the front-end and back-end by utilizing APIs, Express.js, and performing CRUD operations with MySQL.
 
